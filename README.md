@@ -25,6 +25,6 @@ AI & Machine Learning Researcher exploring intelligent systems, computer vision,
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<img src="./assets/images/goodbye.gif" width="100%" height="56%">
+<img src="./goodbye.gif" width="100%" height="56%">
 <p align="center">Thanks for visiting, bye 👋</p>
 <!-- Proudly created with Love and Care -->
