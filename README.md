@@ -1,4 +1,5 @@
-# 💫 About Me:
+# Hi, I'm Rajnish Singh. 
+## 💫 About Me:
 AI & Machine Learning Researcher exploring intelligent systems, computer vision, quantum machine learning, and decision intelligence. Building reproducible research, open-source tools, and scalable AI applications.
 
 
