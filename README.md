@@ -8,6 +8,21 @@ AI & Machine Learning Researcher exploring intelligent systems, computer vision,
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
+---
+
+## 🤝 Open Source Contributions Welcome!
+I am actively looking for developers to collaborate with! Check out the open issues across my repositories. We have plenty of **`good first issue`** and **`help wanted`** tags waiting for you:
+
+* 🌾 **[AnimalIntrusionDetection](https://github.com/givemehat/AnimalIntrusionDetection/issues)** - Help build agricultural AI systems!
+* 🤖 **[HUMAN_AI_TEAMING](https://github.com/givemehat/HUMAN_AI_TEAMING/issues)** - Contribute to cutting-edge AI teaming research.
+* 📈 **[Quantum-Dissipative-Market-Simulator-QDMS-](https://github.com/givemehat/Quantum-Dissipative-Market-Simulator-QDMS-/issues)** - Dive into Quantum computing!
+* 🔍 **[Browse all my open issues here!](https://github.com/pulls?q=is%3Aopen+is%3Aissue+user%3Agivemehat)**
+
+If you use any of my code, please consider dropping a ⭐ on the repository!
+
+---
+
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
