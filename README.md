@@ -27,6 +27,9 @@ AI & Machine Learning Researcher exploring intelligent systems, computer vision,
 
 ## ✍️ Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Invisible Arms Race: How 6G, Quantum Links, and Smart Spectrum Are Rewriting Military Power](https://medium.com/@rajnisihsingh/the-invisible-arms-race-how-6g-quantum-links-and-smart-spectrum-are-rewriting-military-power-8f137d480b4b?source=rss-e5075fc2520e------2)
+- [Your Habit Tracker Is Watching You. Mine Doesn’t.](https://medium.com/@rajnisihsingh/your-habit-tracker-is-watching-you-mine-doesnt-a024aa24e8a8?source=rss-e5075fc2520e------2)
+- [How Quantum AI is Redefining the Future of Space Exploration](https://medium.com/@rajnisihsingh/how-quantum-ai-is-redefining-the-future-of-space-exploration-99aed23604cd?source=rss-e5075fc2520e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
