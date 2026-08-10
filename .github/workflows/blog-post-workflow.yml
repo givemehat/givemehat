@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest blog and youtube workflow
 on:
   schedule:
     # Runs every hour
@@ -9,14 +9,22 @@ permissions:
   contents: write
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme-with-content:
+    name: Update this repo's README with latest content
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        
       - name: Pull in Medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@rajnisihsingh"
           max_post_count: 5
+          
+      - name: Pull in YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "YOUTUBE-LIST"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?user=nonchalantpumpkin,https://www.youtube.com/@nonchalantpumpkin"
+          max_post_count: 3

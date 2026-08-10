@@ -14,6 +14,11 @@
   <img src="https://img.shields.io/github/last-commit/givemehat/givemehat?style=for-the-badge&color=red" alt="Last Commit" />
 </div>
 
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=givemehat&theme=radical&no-frame=false&no-bg=true&margin-w=15" alt="givemehat" />
+  </a>
+</div>
 ## 💫 About Me:
 AI & Machine Learning Researcher exploring intelligent systems, computer vision, quantum machine learning, and decision intelligence. Building reproducible research, open-source tools, and scalable AI applications.
 
@@ -31,6 +36,10 @@ AI & Machine Learning Researcher exploring intelligent systems, computer vision,
 - [Your Habit Tracker Is Watching You. Mine Doesn’t.](https://medium.com/@rajnisihsingh/your-habit-tracker-is-watching-you-mine-doesnt-a024aa24e8a8?source=rss-e5075fc2520e------2)
 - [How Quantum AI is Redefining the Future of Space Exploration](https://medium.com/@rajnisihsingh/how-quantum-ai-is-redefining-the-future-of-space-exploration-99aed23604cd?source=rss-e5075fc2520e------2)
 <!-- BLOG-POST-LIST:END -->
+
+## 🎥 Latest YouTube Videos
+<!-- YOUTUBE-LIST:START -->
+<!-- YOUTUBE-LIST:END -->
 
 ---
 
@@ -55,6 +64,12 @@ If you use any of my code, please consider dropping a ⭐ on the repository!
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/givemehat/givemehat/output/dist/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/givemehat/givemehat/output/dist/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+## 🧊 3D Contribution Graph
+
+<div align="center">
+  <img alt="3d github contribution graph" src="https://raw.githubusercontent.com/givemehat/givemehat/main/profile-3d-contrib/profile-night-rainbow.svg">
 </div>
 
 # 💻 Tech Stack:
