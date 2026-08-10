@@ -1,4 +1,11 @@
-# Hi, I'm Rajnish Singh. 
+<h1 align="center">Hi 👋, I'm Rajnish Singh</h1>
+<h3 align="center">A passionate AI & Machine Learning Researcher</h3>
+
+<p align="center">
+  <a href="https://github.com/givemehat">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning+Researcher;Quantum+Computing+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p> 
 
 <div align="center">
   <img src="https://img.shields.io/github/repo-size/givemehat/givemehat?style=for-the-badge&color=blue" alt="Repository Size" />
@@ -18,6 +25,12 @@ AI & Machine Learning Researcher exploring intelligent systems, computer vision,
 
 ---
 
+## ✍️ Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## 🤝 Open Source Contributions Welcome!
 I am actively looking for developers to collaborate with! Check out the open issues across my repositories. We have plenty of **`good first issue`** and **`help wanted`** tags waiting for you:
 
@@ -34,7 +47,11 @@ If you use any of my code, please consider dropping a ⭐ on the repository!
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/givemehat/givemehat/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/givemehat/givemehat/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/givemehat/givemehat/output/dist/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 # 💻 Tech Stack:
@@ -73,9 +90,14 @@ If you use any of my code, please consider dropping a ⭐ on the repository!
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=givemehat&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=givemehat&theme=apprentice&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=givemehat&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=givemehat&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true" width="48%">
+  <img src="https://streak-stats.demolab.com/?user=givemehat&theme=apprentice&hide_border=false" width="48%">
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=givemehat&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="60%">
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
