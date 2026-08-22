@@ -1,0 +1,32 @@
+name: Latest blog and youtube workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-content:
+    name: Update this repo's README with latest content
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        
+      - name: Pull in Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@rajnishsingh"
+          max_post_count: 5
+          
+      # YouTube step commented out because @nonchalantpumpkin handle fetching is currently broken and spamming notifications
+      # To fix: provide the exact YouTube Channel ID (e.g. UCxxxxxxxxxxxx) instead of the handle.
+      # - name: Pull in YouTube videos
+      #   uses: gautamkrishnar/blog-post-workflow@v1
+      #   with:
+      #     comment_tag_name: "YOUTUBE-LIST"
+      #     feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=YOUR_CHANNEL_ID_HERE"
+      #     max_post_count: 3
