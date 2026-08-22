@@ -42,14 +42,6 @@ If you use any of my code, please consider dropping a ⭐ on the repository!
 
 ---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/givemehat/givemehat/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/givemehat/givemehat/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/givemehat/givemehat/output/dist/github-contribution-grid-snake.svg" width="80%">
-  </picture>
-</div>
-
 ## 💻 Tech Stack:
 
 ### Machine Learning & AI
