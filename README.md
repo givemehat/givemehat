@@ -7,12 +7,6 @@
   </a>
 </p>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=givemehat&theme=radical&no-frame=false&no-bg=true&margin-w=15" alt="givemehat" />
-  </a>
-</div>
-
 ## 💫 About Me:
 
 AI & Machine Learning Researcher exploring intelligent systems, computer vision, quantum machine learning, and decision intelligence. Building reproducible research, open-source tools, and scalable AI applications.
