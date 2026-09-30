@@ -22,10 +22,9 @@ jobs:
           feed_list: "https://medium.com/feed/@rajnishsingh"
           max_post_count: 5
           
-      # YouTube step commented out because @nonchalantpumpkin handle fetching is currently broken and spamming notifications
-      # - name: Pull in YouTube videos
-      #   uses: gautamkrishnar/blog-post-workflow@v1
-      #   with:
-      #     comment_tag_name: "YOUTUBE-LIST"
-      #     feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=YOUR_CHANNEL_ID"
-      #     max_post_count: 3
+      - name: Pull in YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "YOUTUBE-LIST"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCkudKmpn3J7ONkUNY839KnA"
+          max_post_count: 4
