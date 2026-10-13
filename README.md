@@ -25,10 +25,10 @@ AI & Machine Learning Researcher exploring intelligent systems, computer vision,
 ## 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE-LIST:START -->
+- [Stop me if you can 🕊️](https://www.youtube.com/shorts/Mz-UpEGSryI)
+- [Part of a Process](https://www.youtube.com/shorts/maUMlE24ICw)
 - [Rakshak Setu Real-Time On Device AI Shield Against Voice Cloning &amp; Cyber Scams | SIH 2026 &lpar;PS 26104&rpar;](https://www.youtube.com/watch?v=L3865BQDzTA)
 - [Securing Enterprises from Quantum Attacks 🛡️ | Indramesh by Forge Labs | SIH 2026 &lpar;PS: 26164&rpar;](https://www.youtube.com/watch?v=v22Gb79Jn34)
-- [HRB](https://www.youtube.com/shorts/XBFEXIlkAn4)
-- [Linkedin is unpredictable](https://www.youtube.com/shorts/Xds8-bqQ5As)
 <!-- YOUTUBE-LIST:END -->
 
 ---
