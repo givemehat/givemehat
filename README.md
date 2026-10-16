@@ -25,10 +25,10 @@ AI & Machine Learning Researcher exploring intelligent systems, computer vision,
 ## 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE-LIST:START -->
+- [Abbse padhai karunga](https://www.youtube.com/shorts/LF_oyh5lqDw)
+- [Karm param dharmasya;](https://www.youtube.com/shorts/TlXCCyOKyBw)
+- [When no one trust you Trust God !](https://www.youtube.com/shorts/Xt1nJIbwFQ8)
 - [three musketeers](https://www.youtube.com/shorts/6_ioRAkKI5k)
-- [Stop me if you can 🕊️](https://www.youtube.com/shorts/Mz-UpEGSryI)
-- [Part of a Process](https://www.youtube.com/shorts/maUMlE24ICw)
-- [Rakshak Setu Real-Time On Device AI Shield Against Voice Cloning &amp; Cyber Scams | SIH 2026 &lpar;PS 26104&rpar;](https://www.youtube.com/watch?v=L3865BQDzTA)
 <!-- YOUTUBE-LIST:END -->
 
 ---
