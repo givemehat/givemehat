@@ -20,12 +20,12 @@
 
 ## 🔬 About Me
 
-I am an Applied AI & Quantum Machine Learning researcher working on one central question: **how models, algorithms, and decision pipelines hold up under physical noise and non-stationary uncertainty.** 
+I am an Applied AI & Quantum Machine Learning researcher working on one central question: **how models, algorithms, and decision pipelines hold up under physical noise and non-stationary uncertainty.**
 
-* 🏛️ **AI/ML Research Intern** at **Technology Innovation Hub (TIH), IIT Guwahati** — Architected edge deep learning pipelines for NASA battery health and remaining useful life (RUL) prognostics.
-* ⚛️ **IBM Quantum Advocate** (<6% global acceptance) — Contributing to open-source Qiskit modules and benchmarking parameterized quantum circuits under NISQ noise.
-* 🏆 **Rank 1 / 80 Teams** in **Smart India Hackathon (SIH)** Internal Round for Enterprise Cryptographic Discovery (ECDAT).
-* 📜 **Research Publications**: Co-authored 4 papers submitted/in-progress across UAV radar evasion, quantum noise resilience, heritage art restoration, and battery fleet prognostics.
+- 🏛️ **AI/ML Research Intern** at **Technology Innovation Hub (TIH), IIT Guwahati** — Architected edge deep learning pipelines for NASA battery health and remaining useful life (RUL) prognostics.
+- ⚛️ **IBM Quantum Advocate** (<6% global acceptance) — Contributing to open-source Qiskit modules and benchmarking parameterized quantum circuits under NISQ noise.
+- 🏆 **Rank 1 / 80 Teams** in **Smart India Hackathon (SIH)** Internal Round for Enterprise Cryptographic Discovery (ECDAT).
+- 📜 **Research Publications**: Co-authored 4 papers submitted/in-progress across UAV radar evasion, quantum noise resilience, heritage art restoration, and battery fleet prognostics.
 
 ---
 
