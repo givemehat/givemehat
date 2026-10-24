@@ -79,16 +79,17 @@ I am an Applied AI & Quantum Machine Learning researcher working on one central 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/givemehat/folk-art-restoration">🎨 Heritage Folk Art Restoration</a></h3>
-      <p align="center"><i>Computer Vision • Dual-Stage Spectral Deep Learning</i></p>
+      <h3 align="center">🎨 Heritage Folk Art Restoration</h3>
+      <p align="center"><i>Computer Vision • Dual-Stage Spectral Deep Learning • 🔒 Under Review</i></p>
       <ul>
         <li><b>Architecture:</b> Couples Fast Fourier Convolution (FFC) inpainting with Enhanced Deep Residual Super-Resolution (EDSR).</li>
         <li><b>Quantitative Benchmark:</b> Achieved <b>31.6 dB PSNR</b> and <b>0.923 SSIM</b> on non-stationary cultural artwork degradation.</li>
         <li><b>Dataset:</b> Curated synthetic-damage corpus of 2,500+ high-resolution images across 4 degradation archetypes.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/givemehat/folk-art-restoration"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /></a>
-        <a href="https://github.com/givemehat/folk-art-restoration"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/Status-Under_Review_(npj_Heritage_Science)-orange?style=flat" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Code-Private-critical?style=flat&logo=github" />
       </p>
     </td>
   </tr>
