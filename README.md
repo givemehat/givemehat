@@ -123,6 +123,12 @@ I am an Applied AI & Quantum Machine Learning researcher working on one central 
 
 ---
 
+## 🎨 Creative & Open-Source Highlights
+
+- 💖 **[Forever & Always — Romantic Keepsake Web Experience](https://github.com/givemehat/romantic-keepsake)**: An aesthetic, mobile-first interactive website template celebrating love, anniversaries, and memories. Features a procedural blooming heart tree on HTML5 Canvas, polaroid gallery with lightbox, and a wax-sealed love letter. [![Live Demo](https://img.shields.io/badge/Live_Demo-Interactive_Keepsake-ff4081?style=flat&logo=google-chrome&logoColor=white)](https://givemehat.github.io/romantic-keepsake/) [![Stars](https://img.shields.io/github/stars/givemehat/romantic-keepsake?style=flat&color=ffb300)](https://github.com/givemehat/romantic-keepsake)
+
+---
+
 ## 🛠️ Technical Arsenal
 
 <p align="center">
