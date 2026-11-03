@@ -1,121 +1,119 @@
-<h1 align="center">Hi 👋, I'm Rajnish Singh</h1>
-<h3 align="center">Applied AI Researcher | Uncertainty-Aware Modeling & Quantum ML</h3>
-<p align="center"><b>B.Tech Computer Science & Engineering (2024–2028) • Gautam Buddha University</b></p>
-
+<h1 align="center">Rajnish Singh</h1>
 <p align="center">
-  <a href="https://github.com/givemehat">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Applied+AI+Researcher;Uncertainty-Aware+Deep+Learning;IBM+Quantum+Advocate;Sub-Millisecond+Edge+Deployment" alt="Typing SVG" />
-  </a>
+  <b>AI/ML Research Intern, Technology Innovation Hub (TIH), IIT Guwahati</b><br/>
+  <b>IBM Quantum Advocate</b> • B.Tech Computer Science & Engineering, Gautam Buddha University
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rajnish-singh-a9a61022a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/givemehat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://pypi.org/project/QTerm/"><img src="https://img.shields.io/badge/PyPI-QTerm-3775A9?style=for-the-badge&logo=pypi&logoColor=white" /></a>
-  <a href="https://medium.com/@rajnishsingh"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@CallMeCipher"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="mailto:rajnisihsingh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/rajnish-singh-a9a61022a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/givemehat"><img src="https://img.shields.io/badge/GitHub-givemehat-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://pypi.org/project/QTerm/"><img src="https://img.shields.io/badge/PyPI-QTerm-3775A9?style=flat&logo=pypi&logoColor=white" alt="PyPI" /></a>
+  <a href="https://medium.com/@rajnishsingh"><img src="https://img.shields.io/badge/Medium-@rajnishsingh-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:rajnisihsingh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## 🔬 About Me
+## 🔬 Research Focus & Overview
 
-I am an Applied AI & Quantum Machine Learning researcher working on one central question: **how models, algorithms, and decision pipelines hold up under physical noise and non-stationary uncertainty.**
+My research focuses on **computational robustness, reliability, and uncertainty-aware modeling** across non-stationary dynamical systems, noisy physical substrates, and quantitative risk environments:
 
-- 🏛️ **AI/ML Research Intern** at **Technology Innovation Hub (TIH), IIT Guwahati** — Architected edge deep learning pipelines for NASA battery health and remaining useful life (RUL) prognostics.
-- ⚛️ **IBM Quantum Advocate** (<6% global acceptance) — Contributing to open-source Qiskit modules and benchmarking parameterized quantum circuits under NISQ noise.
-- 🏆 **Rank 1 / 80 Teams** in **Smart India Hackathon (SIH)** Internal Round for Enterprise Cryptographic Discovery (ECDAT).
-- 📜 **Research Publications**: Co-authored 4 papers submitted/in-progress across UAV radar evasion, quantum noise resilience, heritage art restoration, and battery fleet prognostics.
-- 📖 Author of **"The Prophecy of Faith"** (Amazon KDP).
+* **Open Quantum Systems & Quantum Machine Learning**: Numerical simulation of non-Markovian dissipation, Lindblad master equations for extreme financial tail-risk, and empirical noise degradation in parameterized quantum circuits (QSVC vs VQC) under hardware-calibrated NISQ noise models.
+* **Quantitative Risk & Financial Time-Series**: Institutional realized volatility forecasting (HAR, Sector-HAR, LightGBM, Diebold-Mariano hypothesis testing) and high-throughput sub-millisecond derivatives liquidity screening.
+* **Deep Learning & Edge Prognostics**: Dilated causal temporal convolutional networks (TCN) and recurrent architectures for complex degradation modeling (battery SOH/RUL) with low-latency INT8/FP16 edge deployment via ONNX Runtime.
+* **Post-Quantum Cryptography & Security Verification**: Algorithmic discovery of cryptographic assets, Mosca's theorem quantum risk assessment, and CycloneDX Cryptographic Bill of Materials (CBOM) generation.
 
 ---
 
-## 🚀 Flagship Research & Engineering Repositories
+## 🏛️ Selected Research & Engineering Projects
 
-<table align="center">
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/givemehat/Internship-Project">🔋 Battery Health & RUL Prognostics</a></h3>
-      <p align="center"><i>TIH IIT Guwahati Research Internship • Deep Learning Zoo</i></p>
+      <h3><a href="https://github.com/givemehat/qdms-quantum-market-simulator">⚛️ QDMS: Quantum Market Risk Simulator</a></h3>
+      <p><i>Open Quantum Systems • Extreme Tail-Risk Modeling</i></p>
       <ul>
-        <li><b>Architecture:</b> Dilated Causal TCN, 2-layer LSTM, and GRU on NASA PCoE battery aging dataset.</li>
-        <li><b>Edge Performance:</b> <b>0.38 ms latency</b> and <b>214 kB</b> footprint via ONNX FP16 quantization.</li>
-        <li><b>Zero-Leakage Benchmark:</b> Strict 16 Train / 9 Val / 9 Holdout Test cell split achieving <b>SOH R² = +0.924</b>.</li>
+        <li><b>Formulation:</b> Solves the <b>Lindblad Master Equation</b> via QuTiP to model liquidity collapse and asset dissipation as environmental decoherence.</li>
+        <li><b>Performance:</b> Value-at-Risk (VaR 99%) convergence accelerated by <b>3.4×</b> compared to standard pseudo-random Monte Carlo simulations.</li>
+        <li><b>Stack:</b> Modular Python physics engine, asynchronous FastAPI backend, and React dashboard for live state-fidelity streaming.</li>
       </ul>
-      <p align="center">
-        <a href="https://github.com/givemehat/Internship-Project"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /></a>
-        <a href="https://github.com/givemehat/Internship-Project"><img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat&logo=onnx&logoColor=white" /></a>
-        <a href="https://github.com/givemehat/Internship-Project"><img src="https://img.shields.io/badge/License-MIT-green.svg" /></a>
+      <p>
+        <a href="https://github.com/givemehat/qdms-quantum-market-simulator"><img src="https://img.shields.io/badge/QuTiP-4.7+-blue?style=flat" alt="QuTiP" /></a>
+        <a href="https://github.com/givemehat/qdms-quantum-market-simulator"><img src="https://img.shields.io/badge/FastAPI-Production-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
+        <a href="https://github.com/givemehat/qdms-quantum-market-simulator"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/givemehat/qdms-quantum-market-simulator">⚛️ QDMS: Quantum Market Risk Simulator</a></h3>
-      <p align="center"><i>Open Quantum Systems • Extreme Tail-Risk Modeling</i></p>
+      <h3><a href="https://github.com/givemehat/nifty-volatility-options-engine">⚡ NIFTY Volatility & Options Engine</a></h3>
+      <p><i>Quantitative Finance • Realized Volatility Forecasting</i></p>
       <ul>
-        <li><b>Physics Core:</b> Solves the <b>Lindblad Master Equation</b> via QuTiP to model liquidity dissipation and financial decoherence.</li>
-        <li><b>Quant Acceleration:</b> Value at Risk (VaR 99%) calculated <b>3.4x faster</b> than conventional Monte Carlo.</li>
-        <li><b>Full-Stack:</b> FastAPI backend streaming real-time risk heatmaps to a modern React 19 frontend.</li>
+        <li><b>Econometric Forecasting:</b> HAR, Cluster-HAR, Sector-HAR, and LightGBM over 3+ years of high-frequency 5-minute tick data.</li>
+        <li><b>Statistical Validation:</b> Strict out-of-sample ranking evaluated using <b>Diebold-Mariano</b> pairwise statistical tests.</li>
+        <li><b>Derivatives Engine:</b> Options short-strangle screener evaluating 50+ strike combinations in &lt;15 ms using DuckDB OLAP.</li>
       </ul>
-      <p align="center">
-        <a href="https://github.com/givemehat/qdms-quantum-market-simulator"><img src="https://img.shields.io/badge/QuTiP-9cf?style=flat" /></a>
-        <a href="https://github.com/givemehat/qdms-quantum-market-simulator"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /></a>
-        <a href="https://github.com/givemehat/qdms-quantum-market-simulator"><img src="https://img.shields.io/badge/React_19-61DAFB?style=flat&logo=react&logoColor=black" /></a>
+      <p>
+        <a href="https://givemehat.github.io/nifty-volatility-options-engine/"><img src="https://img.shields.io/badge/Live_Dashboard-GitHub_Pages-00e5ff?style=flat&logo=github" alt="Live Demo" /></a>
+        <a href="https://github.com/givemehat/nifty-volatility-options-engine"><img src="https://img.shields.io/badge/DuckDB-OLAP-FFF000?style=flat&logo=duckdb&logoColor=black" alt="DuckDB" /></a>
+        <a href="https://github.com/givemehat/nifty-volatility-options-engine"><img src="https://img.shields.io/badge/Tests-Passing-brightgreen?style=flat" alt="Tests" /></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/givemehat/nifty-volatility-options-engine">⚡ VolVantage: NIFTY Volatility Engine</a></h3>
-      <p align="center"><i>Institutional Derivatives Analytics • Live on GitHub Pages</i></p>
+      <h3><a href="https://github.com/givemehat/folk-art-restoration">🎨 Heritage Folk Art Restoration</a></h3>
+      <p><i>Computer Vision • Dual-Stage Spectral Deep Learning (npj Heritage Science)</i></p>
       <ul>
-        <li><b>Forecasting:</b> HAR, Cluster-HAR, Sector-HAR, and LightGBM over 3+ years of 5-min tick data; model ranking via Diebold-Mariano tests.</li>
-        <li><b>Execution:</b> Options short-strangle liquidity screener evaluating 50+ strikes in &lt;15 ms using embedded DuckDB.</li>
-        <li><b>Deployment:</b> Decoupled FastAPI backend and live interactive browser dashboard.</li>
+        <li><b>Architecture:</b> Combines Fast Fourier Convolution (FFC) inpainting with Enhanced Deep Residual Super-Resolution (EDSR).</li>
+        <li><b>Empirical Benchmark:</b> Achieved <b>31.6 dB PSNR</b> and <b>0.923 SSIM</b> on non-stationary cultural artwork degradation patterns.</li>
+        <li><b>Corpus:</b> Benchmark corpus of 2,500+ high-resolution samples across 4 distinct physical degradation archetypes.</li>
       </ul>
-      <p align="center">
-        <a href="https://givemehat.github.io/nifty-volatility-options-engine/"><img src="https://img.shields.io/badge/Live_Demo-GitHub_Pages-00e5ff?style=flat&logo=github" /></a>
-        <a href="https://github.com/givemehat/nifty-volatility-options-engine"><img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black" /></a>
+      <p>
+        <a href="https://github.com/givemehat/folk-art-restoration"><img src="https://img.shields.io/badge/Status-Under_Review-orange?style=flat" alt="Under Review" /></a>
+        <a href="https://github.com/givemehat/folk-art-restoration"><img src="https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
+        <a href="https://github.com/givemehat/folk-art-restoration"><img src="https://img.shields.io/badge/Reproducibility-Verified-success?style=flat" alt="Reproducibility" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎨 Heritage Folk Art Restoration</h3>
-      <p align="center"><i>Computer Vision • Dual-Stage Spectral Deep Learning • 🔒 Under Review</i></p>
+      <h3><a href="https://github.com/givemehat/ONLINETIHIITG">🔋 Battery Fleet Prognostics (SOH / RUL)</a></h3>
+      <p><i>Edge AI • Technology Innovation Hub (TIH), IIT Guwahati</i></p>
       <ul>
-        <li><b>Architecture:</b> Couples Fast Fourier Convolution (FFC) inpainting with Enhanced Deep Residual Super-Resolution (EDSR).</li>
-        <li><b>Quantitative Benchmark:</b> Achieved <b>31.6 dB PSNR</b> and <b>0.923 SSIM</b> on non-stationary cultural artwork degradation.</li>
-        <li><b>Dataset:</b> Curated synthetic-damage corpus of 2,500+ high-resolution images across 4 degradation archetypes.</li>
+        <li><b>Deep Learning Zoo:</b> Dilated Causal TCN, 2-layer LSTM, and GRU trained on NASA PCoE battery aging datasets.</li>
+        <li><b>Edge Optimization:</b> Achieved <b>0.38 ms inference latency</b> and a <b>214 kB footprint</b> via ONNX FP16 quantization.</li>
+        <li><b>Zero-Leakage Protocol:</b> Strict 16 Train / 9 Validation / 9 Holdout cell partition yielding State of Health <b>R² = +0.924</b>.</li>
       </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Under_Review_(npj_Heritage_Science)-orange?style=flat" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/Code-Private-critical?style=flat&logo=github" />
+      <p>
+        <a href="https://github.com/givemehat/ONLINETIHIITG"><img src="https://img.shields.io/badge/Affiliation-TIH_IIT_Guwahati-blue?style=flat" alt="IIT Guwahati" /></a>
+        <a href="https://github.com/givemehat/ONLINETIHIITG"><img src="https://img.shields.io/badge/ONNX_Runtime-Edge-005CED?style=flat&logo=onnx&logoColor=white" alt="ONNX" /></a>
+        <a href="https://github.com/givemehat/ONLINETIHIITG"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/givemehat/quantum-project-1">🔐 HyPQ-Mess: Post-Quantum Messaging</a></h3>
-      <p align="center"><i>NIST PQC Standards • Hybrid Cryptography</i></p>
+      <h3><a href="https://github.com/givemehat/INDRAMESH">🛡️ INDRAMESH: Cryptographic Discovery & Risk</a></h3>
+      <p><i>Post-Quantum Cryptography • Smart India Hackathon Rank 1 / 80</i></p>
       <ul>
-        <li><b>Security:</b> Hybrid X25519 + ML-KEM-768 (Kyber) key encapsulation with AES-256-GCM.</li>
-        <li><b>Design:</b> Dual-security guarantee against both classical interception and future quantum decryptions.</li>
+        <li><b>Discovery Engine:</b> Static and dynamic binary scanner identifying legacy cryptographic algorithms and key strengths.</li>
+        <li><b>Mosca's Theorem:</b> Computes time-to-quantum risk thresholds ($D + S > T$) against migration urgency.</li>
+        <li><b>Compliance:</b> Generates automated CycloneDX-compliant Cryptographic Bill of Materials (CBOM).</li>
       </ul>
-      <p align="center">
-        <a href="https://github.com/givemehat/quantum-project-1"><img src="https://img.shields.io/badge/ML--KEM--768-Kyber-blue?style=flat" /></a>
-        <a href="https://github.com/givemehat/quantum-project-1"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" /></a>
+      <p>
+        <a href="https://github.com/givemehat/INDRAMESH"><img src="https://img.shields.io/badge/SIH-Rank_1-gold?style=flat" alt="SIH Rank 1" /></a>
+        <a href="https://github.com/givemehat/INDRAMESH"><img src="https://img.shields.io/badge/PQC-NIST_FIPS_203/204-blue?style=flat" alt="PQC" /></a>
+        <a href="https://github.com/givemehat/INDRAMESH"><img src="https://img.shields.io/badge/PyTest-Passing-brightgreen?style=flat" alt="PyTest" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://pypi.org/project/QTerm/">⚛️ QTerm: Quantum Circuit Simulator</a></h3>
-      <p align="center"><i>Published PyPI Package • Numerical Computing</i></p>
+      <h3><a href="https://github.com/givemehat/Noise_Resilience_Quantum_Classifiers">⚛️ Quantum Classifier Noise Resilience</a></h3>
+      <p><i>Quantum Machine Learning • NISQ Noise Benchmarking</i></p>
       <ul>
-        <li><b>Engine:</b> Matrix statevector simulator written from scratch in pure NumPy.</li>
-        <li><b>Quality:</b> 48 comprehensive passing unit tests with interactive terminal visualizer.</li>
+        <li><b>Empirical Study:</b> Compares Quantum Support Vector Classifiers (QSVC) vs Variational Quantum Classifiers (VQC).</li>
+        <li><b>Noise Channels:</b> Evaluates performance under depolarizing noise, thermal relaxation, and readout errors.</li>
+        <li><b>Primitives:</b> Executed using Qiskit 1.x Estimator/Sampler architectures with calibrated backend noise models.</li>
       </ul>
-      <p align="center">
-        <a href="https://pypi.org/project/QTerm/"><img src="https://img.shields.io/pypi/v/QTerm?color=blue&style=flat" /></a>
-        <a href="https://pypi.org/project/QTerm/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></a>
+      <p>
+        <a href="https://github.com/givemehat/Noise_Resilience_Quantum_Classifiers"><img src="https://img.shields.io/badge/Qiskit-1.x-6929C4?style=flat&logo=ibm&logoColor=white" alt="Qiskit" /></a>
+        <a href="https://github.com/givemehat/Noise_Resilience_Quantum_Classifiers"><img src="https://img.shields.io/badge/Research-QAMP_2026-purple?style=flat" alt="QAMP" /></a>
       </p>
     </td>
   </tr>
@@ -123,39 +121,29 @@ I am an Applied AI & Quantum Machine Learning researcher working on one central 
 
 ---
 
-## 🎨 Creative & Open-Source Highlights
+## 🛠️ Technical Stack & Tooling
 
-- 💖 **[Forever & Always — Romantic Keepsake Web Experience](https://github.com/givemehat/romantic-keepsake)**: An aesthetic, mobile-first interactive website template celebrating love, anniversaries, and memories. Features a procedural blooming heart tree on HTML5 Canvas, polaroid gallery with lightbox, and a wax-sealed love letter. [![Live Demo](https://img.shields.io/badge/Live_Demo-Interactive_Keepsake-ff4081?style=flat&logo=google-chrome&logoColor=white)](https://givemehat.github.io/romantic-keepsake/) [![Stars](https://img.shields.io/github/stars/givemehat/romantic-keepsake?style=flat&color=ffb300)](https://github.com/givemehat/romantic-keepsake)
-
----
-
-## 🛠️ Technical Arsenal
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
+* **Scientific Computing & ML:** Python, C++, PyTorch, Scikit-learn, LightGBM, NumPy, Pandas, SciPy, QuTiP, OpenCV.
+* **Quantum Development:** Qiskit (1.x/2.x Primitives), Aer Noise Simulators, Parameterized Feature Maps (ZZFeatureMap, PauliFeatureMap), QTerm.
+* **Quantitative Finance & Data:** DuckDB, FastAPI, Financial Time-Series Modeling (HAR, GARCH), Monte Carlo, Options Pricing (Black-Scholes).
+* **Engineering & Deployment:** Docker, Git/GitHub, ONNX Runtime, Linux/Bash, Streamlit, PyTest.
 
 ---
 
-## 📊 Analytics & Activity
+## 📝 Recent Research Articles & Publications
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=givemehat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=givemehat&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=givemehat&theme=tokyonight&hide_border=true" width="96%" />
-</div>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📺 Technical Walkthroughs & Lectures
+
+<!-- YOUTUBE-LIST:START -->
+<!-- YOUTUBE-LIST:END -->
 
 ---
 
 <p align="center">
-  <sub>⚡ Designed for research precision and high-throughput applied engineering.</sub>
+  <sub>Open to research collaborations, visiting researcher roles, and quantitative engineering opportunities.</sub>
 </p>
