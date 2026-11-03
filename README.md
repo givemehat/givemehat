@@ -140,12 +140,10 @@ My research focuses on **computational robustness, reliability, and uncertainty-
 ## 📺 Technical Walkthroughs & Lectures
 
 <!-- YOUTUBE-LIST:START -->
-
 - [Uss din kyu nhi gaye shots](https://www.youtube.com/shorts/QoaWY-MaOpE)
 - [No man left behind](https://www.youtube.com/shorts/b1Yog30rtMk)
 - [Clarity of thoughts](https://www.youtube.com/shorts/IBRD-imPlZo)
-- [To that one, bro! &quot;come and let&#39;s hoop!&quot;](https://www.youtube.com/shorts/1xPWMlDHgFI)
-
+- [To that one, bro!  &quot;come and let&#39;s hoop!&quot;](https://www.youtube.com/shorts/1xPWMlDHgFI)
 <!-- YOUTUBE-LIST:END -->
 
 ---
