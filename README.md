@@ -18,10 +18,10 @@
 
 My research focuses on **computational robustness, reliability, and uncertainty-aware modeling** across non-stationary dynamical systems, noisy physical substrates, and quantitative risk environments:
 
-* **Open Quantum Systems & Quantum Machine Learning**: Numerical simulation of non-Markovian dissipation, Lindblad master equations for extreme financial tail-risk, and empirical noise degradation in parameterized quantum circuits (QSVC vs VQC) under hardware-calibrated NISQ noise models.
-* **Quantitative Risk & Financial Time-Series**: Institutional realized volatility forecasting (HAR, Sector-HAR, LightGBM, Diebold-Mariano hypothesis testing) and high-throughput sub-millisecond derivatives liquidity screening.
-* **Deep Learning & Edge Prognostics**: Dilated causal temporal convolutional networks (TCN) and recurrent architectures for complex degradation modeling (battery SOH/RUL) with low-latency INT8/FP16 edge deployment via ONNX Runtime.
-* **Post-Quantum Cryptography & Security Verification**: Algorithmic discovery of cryptographic assets, Mosca's theorem quantum risk assessment, and CycloneDX Cryptographic Bill of Materials (CBOM) generation.
+- **Open Quantum Systems & Quantum Machine Learning**: Numerical simulation of non-Markovian dissipation, Lindblad master equations for extreme financial tail-risk, and empirical noise degradation in parameterized quantum circuits (QSVC vs VQC) under hardware-calibrated NISQ noise models.
+- **Quantitative Risk & Financial Time-Series**: Institutional realized volatility forecasting (HAR, Sector-HAR, LightGBM, Diebold-Mariano hypothesis testing) and high-throughput sub-millisecond derivatives liquidity screening.
+- **Deep Learning & Edge Prognostics**: Dilated causal temporal convolutional networks (TCN) and recurrent architectures for complex degradation modeling (battery SOH/RUL) with low-latency INT8/FP16 edge deployment via ONNX Runtime.
+- **Post-Quantum Cryptography & Security Verification**: Algorithmic discovery of cryptographic assets, Mosca's theorem quantum risk assessment, and CycloneDX Cryptographic Bill of Materials (CBOM) generation.
 
 ---
 
@@ -123,10 +123,10 @@ My research focuses on **computational robustness, reliability, and uncertainty-
 
 ## 🛠️ Technical Stack & Tooling
 
-* **Scientific Computing & ML:** Python, C++, PyTorch, Scikit-learn, LightGBM, NumPy, Pandas, SciPy, QuTiP, OpenCV.
-* **Quantum Development:** Qiskit (1.x/2.x Primitives), Aer Noise Simulators, Parameterized Feature Maps (ZZFeatureMap, PauliFeatureMap), QTerm.
-* **Quantitative Finance & Data:** DuckDB, FastAPI, Financial Time-Series Modeling (HAR, GARCH), Monte Carlo, Options Pricing (Black-Scholes).
-* **Engineering & Deployment:** Docker, Git/GitHub, ONNX Runtime, Linux/Bash, Streamlit, PyTest.
+- **Scientific Computing & ML:** Python, C++, PyTorch, Scikit-learn, LightGBM, NumPy, Pandas, SciPy, QuTiP, OpenCV.
+- **Quantum Development:** Qiskit (1.x/2.x Primitives), Aer Noise Simulators, Parameterized Feature Maps (ZZFeatureMap, PauliFeatureMap), QTerm.
+- **Quantitative Finance & Data:** DuckDB, FastAPI, Financial Time-Series Modeling (HAR, GARCH), Monte Carlo, Options Pricing (Black-Scholes).
+- **Engineering & Deployment:** Docker, Git/GitHub, ONNX Runtime, Linux/Bash, Streamlit, PyTest.
 
 ---
 
@@ -140,10 +140,12 @@ My research focuses on **computational robustness, reliability, and uncertainty-
 ## 📺 Technical Walkthroughs & Lectures
 
 <!-- YOUTUBE-LIST:START -->
+
 - [Uss din kyu nhi gaye shots](https://www.youtube.com/shorts/QoaWY-MaOpE)
 - [No man left behind](https://www.youtube.com/shorts/b1Yog30rtMk)
 - [Clarity of thoughts](https://www.youtube.com/shorts/IBRD-imPlZo)
-- [To that one, bro!  &quot;come and let&#39;s hoop!&quot;](https://www.youtube.com/shorts/1xPWMlDHgFI)
+- [To that one, bro! &quot;come and let&#39;s hoop!&quot;](https://www.youtube.com/shorts/1xPWMlDHgFI)
+
 <!-- YOUTUBE-LIST:END -->
 
 ---
