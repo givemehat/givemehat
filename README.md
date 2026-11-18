@@ -16,6 +16,8 @@
   <a href="https://github.com/Fractal-Neurons/pacta"><img src="https://raw.githubusercontent.com/Fractal-Neurons/pacta/main/docs/badges/hunters/givemehat.svg" alt="Pacta Verified Hunter" /></a>
   <a href="https://basescan.org/tx/0x0043441060a164895ecfae0af1cb2787fb3674acbb5f5ea9e4123b424b8cddb8"><img src="https://img.shields.io/badge/Wave%201%20Genesis%20Winner-Slot%20%234%20(%2425%20USDC)-0052FF?style=flat&logo=ethereum&logoColor=white" alt="Wave 1 Genesis Winner" /></a>
   <a href="https://basescan.org/address/0xFFE286685fB8C12c3d59728DA29E44a637C22d3d"><img src="https://img.shields.io/badge/Base%20EAS-Verified%20Researcher-12B981?style=flat&logo=base&logoColor=white" alt="Base EAS Attestation" /></a>
+  <a href="https://github.com/BerriAI/litellm/pull/52268"><img src="https://img.shields.io/badge/LiteLLM-Core%20Contributor-8A2BE2?style=flat&logo=github&logoColor=white" alt="LiteLLM Contributor" /></a>
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20Contracts%20%7C%20GSoC-brightgreen?style=flat" alt="Open to Opportunities" />
 </p>
 
 ---
@@ -33,7 +35,10 @@ My research focuses on **computational robustness, reliability, and uncertainty-
 
 ## 🏛️ Selected Research & Engineering Projects
 
-> 🛡️ **Web3 Security Verification Milestone**: Verified winner of **Wave 1 · Slot #4** on [Pacta Protocol](https://github.com/Fractal-Neurons/pacta/pull/32) (1 of 4 global genesis slots settled on Base Mainnet; [BaseScan Tx](https://basescan.org/tx/0x0043441060a164895ecfae0af1cb2787fb3674acbb5f5ea9e4123b424b8cddb8); Base EAS Attestation recorded).
+> 🛡️ **Open-Source & Systems Verification Milestones**:
+> - **Tier-1 AI Infrastructure ([BerriAI/litellm](https://github.com/BerriAI/litellm/pull/52268)):** Resolved rerank provider fallback cost resilience in enterprise proxy.
+> - **Web3 Security Verification ([Pacta Protocol](https://github.com/Fractal-Neurons/pacta/pull/32)):** Verified winner of **Wave 1 · Slot #4** (1 of 4 global genesis slots settled on Base Mainnet; [BaseScan Tx](https://basescan.org/tx/0x0043441060a164895ecfae0af1cb2787fb3674acbb5f5ea9e4123b424b8cddb8); Base EAS Attestation recorded).
+> - **Smart Contracts & SDKs ([TrustLink / Stellar](https://github.com/Haroldwonder/TrustLink)):** Soroban smart contract views, TS & Python SDK client methods, and offline audit export CLI pipelines with 100% test coverage.
 
 <table width="100%">
   <tr>
@@ -134,6 +139,7 @@ My research focuses on **computational robustness, reliability, and uncertainty-
 - **Scientific Computing & ML:** Python, C++, PyTorch, Scikit-learn, LightGBM, NumPy, Pandas, SciPy, QuTiP, OpenCV.
 - **Quantum Development:** Qiskit (1.x/2.x Primitives), Aer Noise Simulators, Parameterized Feature Maps (ZZFeatureMap, PauliFeatureMap), QTerm.
 - **Quantitative Finance & Data:** DuckDB, FastAPI, Financial Time-Series Modeling (HAR, GARCH), Monte Carlo, Options Pricing (Black-Scholes).
+- **Web3 & Systems Engineering:** Rust, Soroban (Stellar Smart Contracts), Solidity (EVM), TypeScript, GraphQL & REST Indexers.
 - **Engineering & Deployment:** Docker, Git/GitHub, ONNX Runtime, Linux/Bash, Streamlit, PyTest.
 
 ---
@@ -159,5 +165,6 @@ My research focuses on **computational robustness, reliability, and uncertainty-
 ---
 
 <p align="center">
-  <sub>Open to research collaborations, visiting researcher roles, and quantitative engineering opportunities.</sub>
+  <b>🚀 Open to:</b> Remote Web3/AI Engineering Contracts • GSoC / LFX Mentorship Opportunities • Applied AI/ML Research Collaborations<br/>
+  <sub>Reach out via <a href="mailto:rajnisihsingh@gmail.com">Email</a> or <a href="https://linkedin.com/in/rajnishsingh-a9a61022a">LinkedIn</a>. Committed to disciplined engineering, 100% test coverage, and computational robustness.</sub>
 </p>
