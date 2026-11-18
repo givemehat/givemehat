@@ -12,6 +12,12 @@
   <a href="mailto:rajnisihsingh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Fractal-Neurons/pacta"><img src="https://raw.githubusercontent.com/Fractal-Neurons/pacta/main/docs/badges/hunters/givemehat.svg" alt="Pacta Verified Hunter" /></a>
+  <a href="https://basescan.org/tx/0x0043441060a164895ecfae0af1cb2787fb3674acbb5f5ea9e4123b424b8cddb8"><img src="https://img.shields.io/badge/Wave%201%20Genesis%20Winner-Slot%20%234%20(%2425%20USDC)-0052FF?style=flat&logo=ethereum&logoColor=white" alt="Wave 1 Genesis Winner" /></a>
+  <a href="https://basescan.org/address/0xFFE286685fB8C12c3d59728DA29E44a637C22d3d"><img src="https://img.shields.io/badge/Base%20EAS-Verified%20Researcher-12B981?style=flat&logo=base&logoColor=white" alt="Base EAS Attestation" /></a>
+</p>
+
 ---
 
 ## 🔬 Research Focus & Overview
@@ -26,6 +32,8 @@ My research focuses on **computational robustness, reliability, and uncertainty-
 ---
 
 ## 🏛️ Selected Research & Engineering Projects
+
+> 🛡️ **Web3 Security Verification Milestone**: Verified winner of **Wave 1 · Slot #4** on [Pacta Protocol](https://github.com/Fractal-Neurons/pacta/pull/32) (1 of 4 global genesis slots settled on Base Mainnet; [BaseScan Tx](https://basescan.org/tx/0x0043441060a164895ecfae0af1cb2787fb3674acbb5f5ea9e4123b424b8cddb8); Base EAS Attestation recorded).
 
 <table width="100%">
   <tr>
