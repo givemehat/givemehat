@@ -36,6 +36,7 @@ My research focuses on **computational robustness, reliability, and uncertainty-
 ## 🏛️ Selected Research & Engineering Projects
 
 > 🛡️ **Open-Source & Systems Verification Milestones**:
+>
 > - **Tier-1 AI Infrastructure ([BerriAI/litellm](https://github.com/BerriAI/litellm/pull/52268)):** Resolved rerank provider fallback cost resilience in enterprise proxy.
 > - **Web3 Security Verification ([Pacta Protocol](https://github.com/Fractal-Neurons/pacta/pull/32)):** Verified winner of **Wave 1 · Slot #4** (1 of 4 global genesis slots settled on Base Mainnet; [BaseScan Tx](https://basescan.org/tx/0x0043441060a164895ecfae0af1cb2787fb3674acbb5f5ea9e4123b424b8cddb8); Base EAS Attestation recorded).
 > - **Smart Contracts & SDKs ([TrustLink / Stellar](https://github.com/Haroldwonder/TrustLink)):** Soroban smart contract views, TS & Python SDK client methods, and offline audit export CLI pipelines with 100% test coverage.
