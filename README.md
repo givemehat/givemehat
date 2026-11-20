@@ -22,6 +22,7 @@
   <a href="https://basescan.org/tx/0x0043441060a164895ecfae0af1cb2787fb3674acbb5f5ea9e4123b424b8cddb8"><img src="https://img.shields.io/badge/Wave%201%20Genesis%20Winner-Slot%20%234%20(%2425%20USDC)-0052FF?style=flat&logo=ethereum&logoColor=white" alt="Wave 1 Genesis Winner" /></a>
   <a href="https://basescan.org/address/0xFFE286685fB8C12c3d59728DA29E44a637C22d3d"><img src="https://img.shields.io/badge/Base%20EAS-Verified%20Researcher-12B981?style=flat&logo=base&logoColor=white" alt="Base EAS Attestation" /></a>
   <a href="https://github.com/BerriAI/litellm/pull/52268"><img src="https://img.shields.io/badge/LiteLLM-Core%20Contributor-8A2BE2?style=flat&logo=github&logoColor=white" alt="LiteLLM Contributor" /></a>
+  <a href="https://github.com/givemehat/delphi-evidence-miner"><img src="https://img.shields.io/badge/DoraHacks-Delphi%20Evidence%20Miner-FF6B00?style=flat&logo=openai&logoColor=white" alt="Delphi Evidence Miner" /></a>
   <img src="https://img.shields.io/badge/Open%20to-Remote%20Contracts%20%7C%20GSoC-brightgreen?style=flat" alt="Open to Opportunities" />
 </p>
 
