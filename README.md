@@ -13,6 +13,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/stanfordnlp/dspy/pull/10924"><img src="https://img.shields.io/badge/Stanford%20NLP-Contributor-8C1515?style=flat&logo=stanford&logoColor=white" alt="Stanford NLP Contributor" /></a>
   <a href="https://github.com/mit-han-lab/torchquantum/pull/337"><img src="https://img.shields.io/badge/MIT%20Han%20Lab-Contributor-A31F34?style=flat&logo=mit&logoColor=white" alt="MIT Han Lab Contributor" /></a>
   <a href="https://github.com/AI4Bharat/IndicLID/pull/11"><img src="https://img.shields.io/badge/AI4Bharat%20(IIT%20Madras)-Contributor-orange?style=flat&logo=iitm&logoColor=white" alt="AI4Bharat IIT Madras Contributor" /></a>
   <a href="https://github.com/open-telemetry/opentelemetry-go/pulls/givemehat"><img src="https://img.shields.io/badge/OpenTelemetry-4%20CNCF%20PRs-0052CC?style=flat&logo=opentelemetry&logoColor=white" alt="OpenTelemetry Contributor" /></a>
