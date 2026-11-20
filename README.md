@@ -14,6 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/mit-han-lab/torchquantum/pull/337"><img src="https://img.shields.io/badge/MIT%20Han%20Lab-Contributor-A31F34?style=flat&logo=mit&logoColor=white" alt="MIT Han Lab Contributor" /></a>
+  <a href="https://github.com/AI4Bharat/IndicLID/pull/11"><img src="https://img.shields.io/badge/AI4Bharat%20(IIT%20Madras)-Contributor-orange?style=flat&logo=iitm&logoColor=white" alt="AI4Bharat IIT Madras Contributor" /></a>
   <a href="https://github.com/open-telemetry/opentelemetry-go/pulls/givemehat"><img src="https://img.shields.io/badge/OpenTelemetry-4%20CNCF%20PRs-0052CC?style=flat&logo=opentelemetry&logoColor=white" alt="OpenTelemetry Contributor" /></a>
   <a href="https://github.com/givemehat/bounty-radar"><img src="https://img.shields.io/badge/Bounty%20Radar-Cloud%20Sentinel%2024%2F7-brightgreen?style=flat&logo=githubactions&logoColor=white" alt="Bounty Radar" /></a>
   <img src="https://img.shields.io/badge/JetBrains-All--Pack%202026--2027-000000?style=flat&logo=jetbrains&logoColor=white" alt="JetBrains Certified" />
