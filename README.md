@@ -14,7 +14,10 @@
 
 <p align="center">
   <a href="https://github.com/mit-han-lab/torchquantum/pull/337"><img src="https://img.shields.io/badge/MIT%20Han%20Lab-Contributor-A31F34?style=flat&logo=mit&logoColor=white" alt="MIT Han Lab Contributor" /></a>
-  <a href="https://github.com/open-telemetry/opentelemetry-go/pull/9552"><img src="https://img.shields.io/badge/OpenTelemetry-CNCF%20%7C%20LFX-0052CC?style=flat&logo=opentelemetry&logoColor=white" alt="OpenTelemetry Contributor" /></a>
+  <a href="https://github.com/open-telemetry/opentelemetry-go/pulls/givemehat"><img src="https://img.shields.io/badge/OpenTelemetry-4%20CNCF%20PRs-0052CC?style=flat&logo=opentelemetry&logoColor=white" alt="OpenTelemetry Contributor" /></a>
+  <a href="https://github.com/givemehat/bounty-radar"><img src="https://img.shields.io/badge/Bounty%20Radar-Cloud%20Sentinel%2024%2F7-brightgreen?style=flat&logo=githubactions&logoColor=white" alt="Bounty Radar" /></a>
+  <img src="https://img.shields.io/badge/JetBrains-All--Pack%202026--2027-000000?style=flat&logo=jetbrains&logoColor=white" alt="JetBrains Certified" />
+  <img src="https://img.shields.io/badge/Linux%20Foundation-EasyCLA%20Verified-008080?style=flat&logo=linuxfoundation&logoColor=white" alt="EasyCLA Verified" />
   <a href="https://github.com/Fractal-Neurons/pacta"><img src="https://raw.githubusercontent.com/Fractal-Neurons/pacta/main/docs/badges/hunters/givemehat.svg" alt="Pacta Verified Hunter" /></a>
   <a href="https://basescan.org/tx/0x0043441060a164895ecfae0af1cb2787fb3674acbb5f5ea9e4123b424b8cddb8"><img src="https://img.shields.io/badge/Wave%201%20Genesis%20Winner-Slot%20%234%20(%2425%20USDC)-0052FF?style=flat&logo=ethereum&logoColor=white" alt="Wave 1 Genesis Winner" /></a>
   <a href="https://basescan.org/address/0xFFE286685fB8C12c3d59728DA29E44a637C22d3d"><img src="https://img.shields.io/badge/Base%20EAS-Verified%20Researcher-12B981?style=flat&logo=base&logoColor=white" alt="Base EAS Attestation" /></a>
@@ -40,7 +43,7 @@ My research focuses on **computational robustness, reliability, and uncertainty-
 > 🛡️ **Open-Source & Systems Verification Milestones**:
 >
 > - **Quantum Systems & Academic Lab ([mit-han-lab/torchquantum](https://github.com/mit-han-lab/torchquantum/pull/337)):** Resolved IBM Quantum chief architect's Qiskit SDK v2 compatibility checkup, protecting ecosystem PyPI listing for Prof. Song Han's lab at MIT EECS.
-> - **Cloud Native Infrastructure ([open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go/pull/9552)):** Contributor to OpenTelemetry Go SDK (CNCF Graduated & LFX Mentorship), under signed Linux Foundation Individual Contributor License Agreement (EasyCLA).
+> - **Cloud Native Infrastructure ([open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go)):** Core contributor with 4 active CNCF/LFX pull requests ([#9552](https://github.com/open-telemetry/opentelemetry-go/pull/9552), [#9553](https://github.com/open-telemetry/opentelemetry-go/pull/9553), [#9554](https://github.com/open-telemetry/opentelemetry-go/pull/9554), [#9555](https://github.com/open-telemetry/opentelemetry-go/pull/9555)) spanning Metric and OTLP Exporter architecture under signed Linux Foundation Individual Contributor License Agreement (EasyCLA).
 > - **Tier-1 AI Infrastructure ([BerriAI/litellm](https://github.com/BerriAI/litellm/pull/52268)):** Resolved rerank provider fallback cost resilience in enterprise proxy.
 > - **Web3 Security Verification ([Pacta Protocol](https://github.com/Fractal-Neurons/pacta/pull/32)):** Verified winner of **Wave 1 · Slot #4** (1 of 4 global genesis slots settled on Base Mainnet; [BaseScan Tx](https://basescan.org/tx/0x0043441060a164895ecfae0af1cb2787fb3674acbb5f5ea9e4123b424b8cddb8); Base EAS Attestation recorded).
 > - **Smart Contracts & SDKs ([TrustLink / Stellar](https://github.com/Haroldwonder/TrustLink)):** Soroban smart contract views, TS & Python SDK client methods, and offline audit export CLI pipelines with 100% test coverage.
