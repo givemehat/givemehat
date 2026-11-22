@@ -161,7 +161,7 @@ My research focuses on **computational robustness, reliability, and uncertainty-
   _Zenodo Open Research_ • **DOI:** [`10.5281/zenodo.24183694`](https://doi.org/10.5281/zenodo.24183694) • [Record Link](https://zenodo.org/records/24183694)  
   _Focus:_ TinyML, TensorFlow Lite Micro, INT8 Quantized Neural Networks, Sensor Fusion, Autonomous Aerial Docking.
 
-> 📚 *View full citations, preprints, and author metrics on [Google Scholar Profile](https://scholar.google.com/citations?user=hU_r6MEAAAAJ).*
+> 📚 _View full citations, preprints, and author metrics on [Google Scholar Profile](https://scholar.google.com/citations?user=hU_r6MEAAAAJ)._
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
