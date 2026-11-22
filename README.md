@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://scholar.google.com/citations?user=hU_r6MEAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
   <a href="https://orcid.org/0009-0000-7691-3939"><img src="https://img.shields.io/badge/ORCID-0009--0000--7691--3939-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <a href="https://linkedin.com/in/rajnish-singh-a9a61022a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/givemehat"><img src="https://img.shields.io/badge/GitHub-givemehat-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -159,6 +160,8 @@ My research focuses on **computational robustness, reliability, and uncertainty-
   _Rajnish Singh ([ORCID: 0009-0000-7691-3939](https://orcid.org/0009-0000-7691-3939)), Himanshu Patel_ (Nov 2026)  
   _Zenodo Open Research_ • **DOI:** [`10.5281/zenodo.24183694`](https://doi.org/10.5281/zenodo.24183694) • [Record Link](https://zenodo.org/records/24183694)  
   _Focus:_ TinyML, TensorFlow Lite Micro, INT8 Quantized Neural Networks, Sensor Fusion, Autonomous Aerial Docking.
+
+> 📚 *View full citations, preprints, and author metrics on [Google Scholar Profile](https://scholar.google.com/citations?user=hU_r6MEAAAAJ).*
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
