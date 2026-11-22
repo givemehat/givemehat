@@ -161,10 +161,12 @@ My research focuses on **computational robustness, reliability, and uncertainty-
 ## 📺 Technical Walkthroughs & Lectures
 
 <!-- YOUTUBE-LIST:START -->
+
 - [&quot;The heaviest regrets are the words left unsaid.&quot;](https://www.youtube.com/shorts/jYpQ7Op3vK4)
 - [Tried something beyond my comfort zone.](https://www.youtube.com/shorts/8Bsk_GvENls)
 - [Uss din kyu nhi gaye shots](https://www.youtube.com/shorts/QoaWY-MaOpE)
 - [No man left behind](https://www.youtube.com/shorts/b1Yog30rtMk)
+
 <!-- YOUTUBE-LIST:END -->
 
 ---
