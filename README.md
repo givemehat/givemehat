@@ -13,19 +13,15 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/open-telemetry/opentelemetry-go/pulls/givemehat"><img src="https://img.shields.io/badge/OpenTelemetry-CNCF%20Contributor-0052CC?style=flat&logo=opentelemetry&logoColor=white" alt="OpenTelemetry Contributor" /></a>
+  <a href="https://github.com/CircuitVerse/cv-frontend-vue"><img src="https://img.shields.io/badge/CircuitVerse-Open%20Source-FF7043?style=flat&logo=vue.js&logoColor=white" alt="CircuitVerse Contributor" /></a>
+  <img src="https://img.shields.io/badge/Linux%20Foundation-EasyCLA%20Verified-008080?style=flat&logo=linuxfoundation&logoColor=white" alt="EasyCLA Verified" />
   <a href="https://github.com/stanfordnlp/dspy/pull/10924"><img src="https://img.shields.io/badge/Stanford%20NLP-Contributor-8C1515?style=flat&logo=stanford&logoColor=white" alt="Stanford NLP Contributor" /></a>
   <a href="https://github.com/mit-han-lab/torchquantum/pull/337"><img src="https://img.shields.io/badge/MIT%20Han%20Lab-Contributor-A31F34?style=flat&logo=mit&logoColor=white" alt="MIT Han Lab Contributor" /></a>
   <a href="https://github.com/AI4Bharat/IndicLID/pull/11"><img src="https://img.shields.io/badge/AI4Bharat%20(IIT%20Madras)-Contributor-orange?style=flat&logo=iitm&logoColor=white" alt="AI4Bharat IIT Madras Contributor" /></a>
-  <a href="https://github.com/open-telemetry/opentelemetry-go/pulls/givemehat"><img src="https://img.shields.io/badge/OpenTelemetry-4%20CNCF%20PRs-0052CC?style=flat&logo=opentelemetry&logoColor=white" alt="OpenTelemetry Contributor" /></a>
-  <a href="https://github.com/givemehat/bounty-radar"><img src="https://img.shields.io/badge/Bounty%20Radar-Cloud%20Sentinel%2024%2F7-brightgreen?style=flat&logo=githubactions&logoColor=white" alt="Bounty Radar" /></a>
-  <img src="https://img.shields.io/badge/JetBrains-All--Pack%202026--2027-000000?style=flat&logo=jetbrains&logoColor=white" alt="JetBrains Certified" />
-  <img src="https://img.shields.io/badge/Linux%20Foundation-EasyCLA%20Verified-008080?style=flat&logo=linuxfoundation&logoColor=white" alt="EasyCLA Verified" />
-  <a href="https://github.com/Fractal-Neurons/pacta"><img src="https://raw.githubusercontent.com/Fractal-Neurons/pacta/main/docs/badges/hunters/givemehat.svg" alt="Pacta Verified Hunter" /></a>
-  <a href="https://basescan.org/tx/0x0043441060a164895ecfae0af1cb2787fb3674acbb5f5ea9e4123b424b8cddb8"><img src="https://img.shields.io/badge/Wave%201%20Genesis%20Winner-Slot%20%234%20(%2425%20USDC)-0052FF?style=flat&logo=ethereum&logoColor=white" alt="Wave 1 Genesis Winner" /></a>
-  <a href="https://basescan.org/address/0xFFE286685fB8C12c3d59728DA29E44a637C22d3d"><img src="https://img.shields.io/badge/Base%20EAS-Verified%20Researcher-12B981?style=flat&logo=base&logoColor=white" alt="Base EAS Attestation" /></a>
   <a href="https://github.com/BerriAI/litellm/pull/52268"><img src="https://img.shields.io/badge/LiteLLM-Core%20Contributor-8A2BE2?style=flat&logo=github&logoColor=white" alt="LiteLLM Contributor" /></a>
-  <a href="https://github.com/givemehat/delphi-evidence-miner"><img src="https://img.shields.io/badge/DoraHacks-Delphi%20Evidence%20Miner-FF6B00?style=flat&logo=openai&logoColor=white" alt="Delphi Evidence Miner" /></a>
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20Contracts%20%7C%20GSoC-brightgreen?style=flat" alt="Open to Opportunities" />
+  <img src="https://img.shields.io/badge/JetBrains-Student%20Pack%20Verified-000000?style=flat&logo=jetbrains&logoColor=white" alt="JetBrains Verified" />
+  <img src="https://img.shields.io/badge/Open%20to-GSoC%20%7C%20LFX%20Mentorship-brightgreen?style=flat" alt="Open to Opportunities" />
 </p>
 
 ---
@@ -43,13 +39,13 @@ My research focuses on **computational robustness, reliability, and uncertainty-
 
 ## 🏛️ Selected Research & Engineering Projects
 
-> 🛡️ **Open-Source & Systems Verification Milestones**:
+> 🛡️ **Open-Source & Systems Engineering Milestones**:
 >
-> - **Quantum Systems & Academic Lab ([mit-han-lab/torchquantum](https://github.com/mit-han-lab/torchquantum/pull/337)):** Resolved IBM Quantum chief architect's Qiskit SDK v2 compatibility checkup, protecting ecosystem PyPI listing for Prof. Song Han's lab at MIT EECS.
-> - **Cloud Native Infrastructure ([open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go)):** Core contributor with 4 active CNCF/LFX pull requests ([#9552](https://github.com/open-telemetry/opentelemetry-go/pull/9552), [#9553](https://github.com/open-telemetry/opentelemetry-go/pull/9553), [#9554](https://github.com/open-telemetry/opentelemetry-go/pull/9554), [#9555](https://github.com/open-telemetry/opentelemetry-go/pull/9555)) spanning Metric and OTLP Exporter architecture under signed Linux Foundation Individual Contributor License Agreement (EasyCLA).
+> - **Cloud Native Infrastructure ([open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go)):** CNCF contributor with 4 maintainer-approved pull requests ([#9553](https://github.com/open-telemetry/opentelemetry-go/pull/9553), [#9554](https://github.com/open-telemetry/opentelemetry-go/pull/9554), [#9555](https://github.com/open-telemetry/opentelemetry-go/pull/9555), [#9556](https://github.com/open-telemetry/opentelemetry-go/pull/9556)) spanning Metric and OTLP Exporter architecture under signed Linux Foundation Individual Contributor License Agreement (EasyCLA).
+> - **Educational EDA & Digital Logic ([CircuitVerse/cv-frontend-vue](https://github.com/CircuitVerse/cv-frontend-vue)):** Active frontend contributor across Vue 3, TypeScript simulator modules, and testbench validation workflows.
+> - **Quantum Systems & Academic Lab ([mit-han-lab/torchquantum](https://github.com/mit-han-lab/torchquantum/pull/337)):** Resolved Qiskit SDK compatibility verification for Prof. Song Han's lab at MIT EECS.
 > - **Tier-1 AI Infrastructure ([BerriAI/litellm](https://github.com/BerriAI/litellm/pull/52268)):** Resolved rerank provider fallback cost resilience in enterprise proxy.
-> - **Web3 Security Verification ([Pacta Protocol](https://github.com/Fractal-Neurons/pacta/pull/32)):** Verified winner of **Wave 1 · Slot #4** (1 of 4 global genesis slots settled on Base Mainnet; [BaseScan Tx](https://basescan.org/tx/0x0043441060a164895ecfae0af1cb2787fb3674acbb5f5ea9e4123b424b8cddb8); Base EAS Attestation recorded).
-> - **Smart Contracts & SDKs ([TrustLink / Stellar](https://github.com/Haroldwonder/TrustLink)):** Soroban smart contract views, TS & Python SDK client methods, and offline audit export CLI pipelines with 100% test coverage.
+> - **Academic NLP ([stanfordnlp/dspy](https://github.com/stanfordnlp/dspy/pull/10924) & [AI4Bharat](https://github.com/AI4Bharat/IndicLID/pull/11)):** Upstream contributions across Stanford NLP and IIT Madras language identification tools.
 
 <table width="100%">
   <tr>
