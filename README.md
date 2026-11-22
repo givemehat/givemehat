@@ -155,9 +155,9 @@ My research focuses on **computational robustness, reliability, and uncertainty-
 ## 📝 Recent Research Articles & Publications
 
 - **Efficient Multi-Sensor Neural Docking for Resource-Constrained Autonomous Systems: An Empirical Study on Aerial Platforms**  
-  *Rajnish Singh, Himanshu Patel* (Nov 2026)  
-  *Zenodo Open Research* • **DOI:** [`10.5281/zenodo.24183694`](https://doi.org/10.5281/zenodo.24183694) • [Record Link](https://zenodo.org/records/24183694)  
-  *Focus:* TinyML, TensorFlow Lite Micro, INT8 Quantized Neural Networks, Sensor Fusion, Autonomous Aerial Docking.
+  _Rajnish Singh, Himanshu Patel_ (Nov 2026)  
+  _Zenodo Open Research_ • **DOI:** [`10.5281/zenodo.24183694`](https://doi.org/10.5281/zenodo.24183694) • [Record Link](https://zenodo.org/records/24183694)  
+  _Focus:_ TinyML, TensorFlow Lite Micro, INT8 Quantized Neural Networks, Sensor Fusion, Autonomous Aerial Docking.
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -167,10 +167,12 @@ My research focuses on **computational robustness, reliability, and uncertainty-
 ## 📺 Technical Walkthroughs & Lectures
 
 <!-- YOUTUBE-LIST:START -->
+
 - [&quot;The heaviest regrets are the words left unsaid.&quot;](https://www.youtube.com/shorts/jYpQ7Op3vK4)
 - [Tried something beyond my comfort zone.](https://www.youtube.com/shorts/8Bsk_GvENls)
 - [Uss din kyu nhi gaye shots](https://www.youtube.com/shorts/QoaWY-MaOpE)
 - [No man left behind](https://www.youtube.com/shorts/b1Yog30rtMk)
+
 <!-- YOUTUBE-LIST:END -->
 
 ---
