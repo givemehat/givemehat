@@ -21,6 +21,7 @@
   <a href="https://github.com/AI4Bharat/IndicLID/pull/11"><img src="https://img.shields.io/badge/AI4Bharat%20(IIT%20Madras)-Contributor-orange?style=flat&logo=iitm&logoColor=white" alt="AI4Bharat IIT Madras Contributor" /></a>
   <a href="https://github.com/BerriAI/litellm/pull/52268"><img src="https://img.shields.io/badge/LiteLLM-Core%20Contributor-8A2BE2?style=flat&logo=github&logoColor=white" alt="LiteLLM Contributor" /></a>
   <img src="https://img.shields.io/badge/JetBrains-Student%20Pack%20Verified-000000?style=flat&logo=jetbrains&logoColor=white" alt="JetBrains Verified" />
+  <a href="https://doi.org/10.5281/zenodo.24183694"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24183694-02428A?style=flat&logo=zenodo&logoColor=white" alt="Zenodo Publication" /></a>
   <img src="https://img.shields.io/badge/Open%20to-GSoC%20%7C%20LFX%20Mentorship-brightgreen?style=flat" alt="Open to Opportunities" />
 </p>
 
@@ -152,6 +153,11 @@ My research focuses on **computational robustness, reliability, and uncertainty-
 ---
 
 ## 📝 Recent Research Articles & Publications
+
+- **Efficient Multi-Sensor Neural Docking for Resource-Constrained Autonomous Systems: An Empirical Study on Aerial Platforms**  
+  *Rajnish Singh, Himanshu Patel* (Nov 2026)  
+  *Zenodo Open Research* • **DOI:** [`10.5281/zenodo.24183694`](https://doi.org/10.5281/zenodo.24183694) • [Record Link](https://zenodo.org/records/24183694)  
+  *Focus:* TinyML, TensorFlow Lite Micro, INT8 Quantized Neural Networks, Sensor Fusion, Autonomous Aerial Docking.
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
