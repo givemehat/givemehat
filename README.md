@@ -156,9 +156,9 @@ My research focuses on **computational robustness, reliability, and uncertainty-
 ## 📝 Recent Research Articles & Publications
 
 - **Efficient Multi-Sensor Neural Docking for Resource-Constrained Autonomous Systems: An Empirical Study on Aerial Platforms**  
-  *Rajnish Singh ([ORCID: 0009-0000-7691-3939](https://orcid.org/0009-0000-7691-3939)), Himanshu Patel* (Nov 2026)  
-  *Zenodo Open Research* • **DOI:** [`10.5281/zenodo.24183694`](https://doi.org/10.5281/zenodo.24183694) • [Record Link](https://zenodo.org/records/24183694)  
-  *Focus:* TinyML, TensorFlow Lite Micro, INT8 Quantized Neural Networks, Sensor Fusion, Autonomous Aerial Docking.
+  _Rajnish Singh ([ORCID: 0009-0000-7691-3939](https://orcid.org/0009-0000-7691-3939)), Himanshu Patel_ (Nov 2026)  
+  _Zenodo Open Research_ • **DOI:** [`10.5281/zenodo.24183694`](https://doi.org/10.5281/zenodo.24183694) • [Record Link](https://zenodo.org/records/24183694)  
+  _Focus:_ TinyML, TensorFlow Lite Micro, INT8 Quantized Neural Networks, Sensor Fusion, Autonomous Aerial Docking.
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
