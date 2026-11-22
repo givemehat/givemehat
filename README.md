@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://orcid.org/0009-0000-7691-3939"><img src="https://img.shields.io/badge/ORCID-0009--0000--7691--3939-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <a href="https://linkedin.com/in/rajnish-singh-a9a61022a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/givemehat"><img src="https://img.shields.io/badge/GitHub-givemehat-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://pypi.org/project/QTerm/"><img src="https://img.shields.io/badge/PyPI-QTerm-3775A9?style=flat&logo=pypi&logoColor=white" alt="PyPI" /></a>
@@ -155,9 +156,9 @@ My research focuses on **computational robustness, reliability, and uncertainty-
 ## 📝 Recent Research Articles & Publications
 
 - **Efficient Multi-Sensor Neural Docking for Resource-Constrained Autonomous Systems: An Empirical Study on Aerial Platforms**  
-  _Rajnish Singh, Himanshu Patel_ (Nov 2026)  
-  _Zenodo Open Research_ • **DOI:** [`10.5281/zenodo.24183694`](https://doi.org/10.5281/zenodo.24183694) • [Record Link](https://zenodo.org/records/24183694)  
-  _Focus:_ TinyML, TensorFlow Lite Micro, INT8 Quantized Neural Networks, Sensor Fusion, Autonomous Aerial Docking.
+  *Rajnish Singh ([ORCID: 0009-0000-7691-3939](https://orcid.org/0009-0000-7691-3939)), Himanshu Patel* (Nov 2026)  
+  *Zenodo Open Research* • **DOI:** [`10.5281/zenodo.24183694`](https://doi.org/10.5281/zenodo.24183694) • [Record Link](https://zenodo.org/records/24183694)  
+  *Focus:* TinyML, TensorFlow Lite Micro, INT8 Quantized Neural Networks, Sensor Fusion, Autonomous Aerial Docking.
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
