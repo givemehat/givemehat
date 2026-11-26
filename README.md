@@ -55,16 +55,20 @@ My research focuses on **computational robustness, reliability, and uncertainty-
 > - **Academic NLP ([stanfordnlp/dspy](https://github.com/stanfordnlp/dspy/pull/10924) & [AI4Bharat](https://github.com/AI4Bharat/IndicLID/pull/11)):** Upstream contributions across Stanford NLP and IIT Madras language identification tools.
 
 <p align="center">
+  <a href="https://cloud.layer5.io/user/fc0a9c0a-fd2d-49ba-ab30-76591a6f8ea0?tab=badges&badge=first-design">
+    <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="115" alt="First Design Awarded" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://cloud.layer5.io/user/fc0a9c0a-fd2d-49ba-ab30-76591a6f8ea0?tab=badges">
     <img src="https://badges.layer5.io/assets/badges/ui-ux/ui-ux.png" width="115" alt="Layer5 UI/UX Contributor" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://cloud.layer5.io/user/fc0a9c0a-fd2d-49ba-ab30-76591a6f8ea0?tab=badges">
     <img src="https://badges.layer5.io/assets/badges/community/community.png" width="115" alt="Layer5 Community Contributor" />
   </a>
 </p>
 <p align="center">
-  <sub>🏆 <b>Layer5 Cloud Contributor</b> • <a href="https://github.com/layer5io/layer5/pull/8494">PR #8494 Merged</a> • <a href="https://cloud.layer5.io/user/fc0a9c0a-fd2d-49ba-ab30-76591a6f8ea0">Layer5 Profile (fc0a9c0a)</a></sub>
+  <sub>🏆 <b>Layer5 Cloud Contributor</b> • <a href="https://cloud.layer5.io/user/fc0a9c0a-fd2d-49ba-ab30-76591a6f8ea0?tab=badges&badge=first-design">1 Verified Badge Awarded</a> • <a href="https://github.com/layer5io/layer5/pull/8494">PR #8494 Merged</a> • <a href="https://cloud.layer5.io/user/fc0a9c0a-fd2d-49ba-ab30-76591a6f8ea0">Layer5 Profile (fc0a9c0a)</a></sub>
 </p>
 
 <table width="100%">
