@@ -135,14 +135,14 @@ My research focuses on **computational robustness, reliability, and uncertainty-
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/givemehat/INDRAMESH">🛡️ INDRAMESH: Cryptographic Discovery & Risk</a></h3>
-      <p><i>Post-Quantum Cryptography • Smart India Hackathon Rank 1 / 80</i></p>
+      <p><i>Post-Quantum Cryptography • Smart India Hackathon (Internal Hackathon • Rank 1 / 80 Teams)</i></p>
       <ul>
         <li><b>Discovery Engine:</b> Static and dynamic binary scanner identifying legacy cryptographic algorithms and key strengths.</li>
         <li><b>Mosca's Theorem:</b> Computes time-to-quantum risk thresholds ($D + S > T$) against migration urgency.</li>
         <li><b>Compliance:</b> Generates automated CycloneDX-compliant Cryptographic Bill of Materials (CBOM).</li>
       </ul>
       <p>
-        <a href="https://github.com/givemehat/INDRAMESH"><img src="https://img.shields.io/badge/SIH-Rank_1-gold?style=flat" alt="SIH Rank 1" /></a>
+        <a href="https://github.com/givemehat/INDRAMESH"><img src="https://img.shields.io/badge/SIH%20Internal-Rank%201%20%2F%2080-gold?style=flat" alt="SIH Internal Rank 1" /></a>
         <a href="https://github.com/givemehat/INDRAMESH"><img src="https://img.shields.io/badge/PQC-NIST_FIPS_203/204-blue?style=flat" alt="PQC" /></a>
         <a href="https://github.com/givemehat/INDRAMESH"><img src="https://img.shields.io/badge/PyTest-Passing-brightgreen?style=flat" alt="PyTest" /></a>
       </p>
