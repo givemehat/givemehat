@@ -15,7 +15,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/open-telemetry/opentelemetry-go/pulls/givemehat"><img src="https://img.shields.io/badge/OpenTelemetry-CNCF%20Contributor-0052CC?style=flat&logo=opentelemetry&logoColor=white" alt="OpenTelemetry Contributor" /></a>
+  <a href="https://github.com/open-telemetry/opentelemetry-go-contrib/pull/10384"><img src="https://img.shields.io/badge/OpenTelemetry-CNCF%20Contributor-0052CC?style=flat&logo=opentelemetry&logoColor=white" alt="OpenTelemetry Contributor" /></a>
+  <a href="https://github.com/layer5io/layer5/pull/8494"><img src="https://img.shields.io/badge/Layer5-CNCF%20Service%20Mesh-00D3A9?style=flat&logo=meshery&logoColor=white" alt="Layer5 Contributor" /></a>
+  <a href="https://platform.worldquantbrain.com"><img src="https://img.shields.io/badge/WorldQuant%20BRAIN-Silver%20Quant%20(10%20Alphas)-1A365D?style=flat" alt="WorldQuant BRAIN Silver Quant" /></a>
   <a href="https://github.com/CircuitVerse/cv-frontend-vue"><img src="https://img.shields.io/badge/CircuitVerse-Open%20Source-FF7043?style=flat&logo=vue.js&logoColor=white" alt="CircuitVerse Contributor" /></a>
   <img src="https://img.shields.io/badge/Linux%20Foundation-EasyCLA%20Verified-008080?style=flat&logo=linuxfoundation&logoColor=white" alt="EasyCLA Verified" />
   <a href="https://github.com/stanfordnlp/dspy/pull/10924"><img src="https://img.shields.io/badge/Stanford%20NLP-Contributor-8C1515?style=flat&logo=stanford&logoColor=white" alt="Stanford NLP Contributor" /></a>
@@ -44,11 +46,26 @@ My research focuses on **computational robustness, reliability, and uncertainty-
 
 > 🛡️ **Open-Source & Systems Engineering Milestones**:
 >
-> - **Cloud Native Infrastructure ([open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go)):** CNCF contributor with 4 maintainer-approved pull requests ([#9553](https://github.com/open-telemetry/opentelemetry-go/pull/9553), [#9554](https://github.com/open-telemetry/opentelemetry-go/pull/9554), [#9555](https://github.com/open-telemetry/opentelemetry-go/pull/9555), [#9556](https://github.com/open-telemetry/opentelemetry-go/pull/9556)) spanning Metric and OTLP Exporter architecture under signed Linux Foundation Individual Contributor License Agreement (EasyCLA).
+> - **Cloud Native & Service Mesh Management ([layer5io/layer5](https://github.com/layer5io/layer5)):** Merged upstream contribution ([#8494](https://github.com/layer5io/layer5/pull/8494)) resolving responsive viewport layout, modal framing, and accessibility on small form-factors; official contributor profile on [Layer5 Cloud](https://cloud.layer5.io/user/fc0a9c0a-fd2d-49ba-ab30-76591a6f8ea0).
+> - **Cloud Native Infrastructure ([open-telemetry](https://github.com/open-telemetry)):** Merged upstream contribution ([#10384](https://github.com/open-telemetry/opentelemetry-go-contrib/pull/10384)) across AWS Lambda & Elastic Beanstalk detector architecture in `opentelemetry-go-contrib`, alongside 4 maintainer-approved pull requests ([#9553](https://github.com/open-telemetry/opentelemetry-go/pull/9553), [#9554](https://github.com/open-telemetry/opentelemetry-go/pull/9554), [#9555](https://github.com/open-telemetry/opentelemetry-go/pull/9555), [#9556](https://github.com/open-telemetry/opentelemetry-go/pull/9556)) in `opentelemetry-go` under signed Linux Foundation Individual Contributor License Agreement (EasyCLA).
+> - **Quantitative Modeling & Financial Engineering ([WorldQuant BRAIN](https://platform.worldquantbrain.com)):** Silver Level Quantitative Researcher (`RS59994`) with 10 verified out-of-sample mathematical alphas (`stage: OS`, `status: ACTIVE`) in institutional production simulation.
 > - **Educational EDA & Digital Logic ([CircuitVerse/cv-frontend-vue](https://github.com/CircuitVerse/cv-frontend-vue)):** Active frontend contributor across Vue 3, TypeScript simulator modules, and testbench validation workflows.
 > - **Quantum Systems & Academic Lab ([mit-han-lab/torchquantum](https://github.com/mit-han-lab/torchquantum/pull/337)):** Resolved Qiskit SDK compatibility verification for Prof. Song Han's lab at MIT EECS.
 > - **Tier-1 AI Infrastructure ([BerriAI/litellm](https://github.com/BerriAI/litellm/pull/52268)):** Resolved rerank provider fallback cost resilience in enterprise proxy.
 > - **Academic NLP ([stanfordnlp/dspy](https://github.com/stanfordnlp/dspy/pull/10924) & [AI4Bharat](https://github.com/AI4Bharat/IndicLID/pull/11)):** Upstream contributions across Stanford NLP and IIT Madras language identification tools.
+
+<p align="center">
+  <a href="https://cloud.layer5.io/user/fc0a9c0a-fd2d-49ba-ab30-76591a6f8ea0?tab=badges">
+    <img src="https://badges.layer5.io/assets/badges/ui-ux/ui-ux.png" width="115" alt="Layer5 UI/UX Contributor" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://cloud.layer5.io/user/fc0a9c0a-fd2d-49ba-ab30-76591a6f8ea0?tab=badges">
+    <img src="https://badges.layer5.io/assets/badges/community/community.png" width="115" alt="Layer5 Community Contributor" />
+  </a>
+</p>
+<p align="center">
+  <sub>🏆 <b>Layer5 Cloud Contributor</b> • <a href="https://github.com/layer5io/layer5/pull/8494">PR #8494 Merged</a> • <a href="https://cloud.layer5.io/user/fc0a9c0a-fd2d-49ba-ab30-76591a6f8ea0">Layer5 Profile (fc0a9c0a)</a></sub>
+</p>
 
 <table width="100%">
   <tr>
