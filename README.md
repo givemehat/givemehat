@@ -192,10 +192,12 @@ My research focuses on **computational robustness, reliability, and uncertainty-
 ## 📺 Technical Walkthroughs & Lectures
 
 <!-- YOUTUBE-LIST:START -->
+
 - [&quot;The heaviest regrets are the words left unsaid.&quot;](https://www.youtube.com/shorts/jYpQ7Op3vK4)
 - [Tried something beyond my comfort zone.](https://www.youtube.com/shorts/8Bsk_GvENls)
 - [Uss din kyu nhi gaye shots](https://www.youtube.com/shorts/QoaWY-MaOpE)
 - [No man left behind](https://www.youtube.com/shorts/b1Yog30rtMk)
+
 <!-- YOUTUBE-LIST:END -->
 
 ---
@@ -210,5 +212,5 @@ My research focuses on **computational robustness, reliability, and uncertainty-
 ## 🏁 Recent Achievement (Nov 2026)
 
 - **esg-ml-risk** — cleaned up the ML research pipeline prototype: fixed PyTorch/BLAS segfault, made runs deterministic (`n_jobs=1`, seeded), corrected README/deck claims (simulated panels, proxy text channels, honest numbers).
-- **PR:** [givemehat/esg-ml-risk#4](https://github.com/givemehat/esg-ml-risk/pull/4) — *"Prototype scope: remove vague claims, dedupe docs, fix pipeline bugs"* — **merged into `main`** ✅
+- **PR:** [givemehat/esg-ml-risk#4](https://github.com/givemehat/esg-ml-risk/pull/4) — _"Prototype scope: remove vague claims, dedupe docs, fix pipeline bugs"_ — **merged into `main`** ✅
 - Full audit trail: [github.com/givemehat/esg-ml-risk](https://github.com/givemehat/esg-ml-risk)
