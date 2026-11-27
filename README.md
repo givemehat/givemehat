@@ -15,8 +15,10 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/meshery/meshery/pull/24480"><img src="https://img.shields.io/badge/CNCF%20Meshery-Merged%20Contributor-00D3A9?style=flat&logo=cncf&logoColor=white" alt="CNCF Meshery Merged Contributor" /></a>
+  <a href="https://github.com/meshery/meshery/pull/24520"><img src="https://img.shields.io/badge/Meshery%20CLI-Go%20Contributor-00ADD8?style=flat&logo=go&logoColor=white" alt="Meshery CLI Go Contributor" /></a>
   <a href="https://github.com/open-telemetry/opentelemetry-go-contrib/pull/10384"><img src="https://img.shields.io/badge/OpenTelemetry-CNCF%20Contributor-0052CC?style=flat&logo=opentelemetry&logoColor=white" alt="OpenTelemetry Contributor" /></a>
-  <a href="https://github.com/layer5io/layer5/pull/8494"><img src="https://img.shields.io/badge/Layer5-CNCF%20Service%20Mesh-00D3A9?style=flat&logo=meshery&logoColor=white" alt="Layer5 Contributor" /></a>
+  <a href="https://cloud.layer5.io/user/fc0a9c0a-fd2d-49ba-ab30-76591a6f8ea0"><img src="https://img.shields.io/badge/Layer5%20Cloud-Design%20Pioneer-00B39F?style=flat&logo=meshery&logoColor=white" alt="Layer5 Design Pioneer" /></a>
   <a href="https://platform.worldquantbrain.com"><img src="https://img.shields.io/badge/WorldQuant%20BRAIN-Silver%20Quant%20(10%20Alphas)-1A365D?style=flat" alt="WorldQuant BRAIN Silver Quant" /></a>
   <a href="https://github.com/CircuitVerse/cv-frontend-vue"><img src="https://img.shields.io/badge/CircuitVerse-Open%20Source-FF7043?style=flat&logo=vue.js&logoColor=white" alt="CircuitVerse Contributor" /></a>
   <img src="https://img.shields.io/badge/Linux%20Foundation-EasyCLA%20Verified-008080?style=flat&logo=linuxfoundation&logoColor=white" alt="EasyCLA Verified" />
@@ -46,8 +48,13 @@ My research focuses on **computational robustness, reliability, and uncertainty-
 
 > 🛡️ **Open-Source & Systems Engineering Milestones**:
 >
+> - **CNCF Meshery (`meshery/meshery`) Core Contributor:**
+>   - **[PR #24480](https://github.com/meshery/meshery/pull/24480) (MERGED into `master`):** Official Meshery community introduction & meeting minutes under `docs/meetings/` (Permanent CNCF git history).
+>   - **[PR #24520](https://github.com/meshery/meshery/pull/24520) (In Review - CLI Engine):** Resolved exact match name resolution for `mesheryctl design delete <name>` ([Issue #23444](https://github.com/meshery/meshery/issues/23444)) with 19/19 Go unit tests, golden fixtures, and Docker/Kubernetes integration tests passing.
+>   - **[PR #24472](https://github.com/meshery/meshery/pull/24472) (In Review - UI/UX):** Responsive catalog design card footer layout alignment (All E2E Playwright, Cypress, and ESLint checks passing).
 > - **Cloud Native & Service Mesh Management ([layer5io/layer5](https://github.com/layer5io/layer5)):** Merged upstream contribution ([#8494](https://github.com/layer5io/layer5/pull/8494)) resolving responsive viewport layout, modal framing, and accessibility on small form-factors; official contributor profile on [Layer5 Cloud](https://cloud.layer5.io/user/fc0a9c0a-fd2d-49ba-ab30-76591a6f8ea0).
-> - **Cloud Native Infrastructure ([open-telemetry](https://github.com/open-telemetry)):** Merged upstream contribution ([#10384](https://github.com/open-telemetry/opentelemetry-go-contrib/pull/10384)) across AWS Lambda & Elastic Beanstalk detector architecture in `opentelemetry-go-contrib`, alongside 4 maintainer-approved pull requests ([#9553](https://github.com/open-telemetry/opentelemetry-go/pull/9553), [#9554](https://github.com/open-telemetry/opentelemetry-go/pull/9554), [#9555](https://github.com/open-telemetry/opentelemetry-go/pull/9555), [#9556](https://github.com/open-telemetry/opentelemetry-go/pull/9556)) in `opentelemetry-go` under signed Linux Foundation Individual Contributor License Agreement (EasyCLA).
+> - **Cloud Native Infrastructure ([open-telemetry](https://github.com/open-telemetry)):** Merged upstream contribution ([#10384](https://github.com/open-telemetry/opentelemetry-go-contrib/pull/10384)) across AWS Lambda & Elastic Beanstalk detector architecture in `opentelemetry-go-contrib`, along with [PR #1738](https://github.com/open-telemetry/opentelemetry-kotlin/pull/1738) in `opentelemetry-kotlin` and 4 maintainer-approved pull requests in `opentelemetry-go` under signed Linux Foundation Individual Contributor License Agreement (EasyCLA).
+> - **GitLab CLI Ecosystem ([gitlab-org/cli](https://gitlab.com/gitlab-org/cli/-/merge_requests/4597)):** Merged upstream contribution ([!4597](https://gitlab.com/gitlab-org/cli/-/merge_requests/4597)) fixing Amazon FSx permission-denied cache directory handling.
 > - **Quantitative Modeling & Financial Engineering ([WorldQuant BRAIN](https://platform.worldquantbrain.com)):** Silver Level Quantitative Researcher (`RS59994`) with 10 verified out-of-sample mathematical alphas (`stage: OS`, `status: ACTIVE`) in institutional production simulation.
 > - **Educational EDA & Digital Logic ([CircuitVerse/cv-frontend-vue](https://github.com/CircuitVerse/cv-frontend-vue)):** Active frontend contributor across Vue 3, TypeScript simulator modules, and testbench validation workflows.
 > - **Quantum Systems & Academic Lab ([mit-han-lab/torchquantum](https://github.com/mit-han-lab/torchquantum/pull/337)):** Resolved Qiskit SDK compatibility verification for Prof. Song Han's lab at MIT EECS.
@@ -56,19 +63,19 @@ My research focuses on **computational robustness, reliability, and uncertainty-
 
 <p align="center">
   <a href="https://cloud.layer5.io/user/fc0a9c0a-fd2d-49ba-ab30-76591a6f8ea0?tab=badges&badge=first-design">
-    <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="115" alt="First Design Awarded" />
+    <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="120" alt="Design Pioneer Awarded" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://cloud.layer5.io/user/fc0a9c0a-fd2d-49ba-ab30-76591a6f8ea0?tab=badges">
-    <img src="https://badges.layer5.io/assets/badges/ui-ux/ui-ux.png" width="115" alt="Layer5 UI/UX Contributor" />
+    <img src="https://badges.layer5.io/assets/badges/ui-ux/ui-ux.png" width="120" alt="Layer5 UI/UX Contributor" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://cloud.layer5.io/user/fc0a9c0a-fd2d-49ba-ab30-76591a6f8ea0?tab=badges">
-    <img src="https://badges.layer5.io/assets/badges/community/community.png" width="115" alt="Layer5 Community Contributor" />
+    <img src="https://badges.layer5.io/assets/badges/community/community.png" width="120" alt="Layer5 Community Contributor" />
   </a>
 </p>
 <p align="center">
-  <sub>🏆 <b>Layer5 Cloud Contributor</b> • <a href="https://cloud.layer5.io/user/fc0a9c0a-fd2d-49ba-ab30-76591a6f8ea0?tab=badges&badge=first-design">1 Verified Badge Awarded</a> • <a href="https://github.com/layer5io/layer5/pull/8494">PR #8494 Merged</a> • <a href="https://cloud.layer5.io/user/fc0a9c0a-fd2d-49ba-ab30-76591a6f8ea0">Layer5 Profile (fc0a9c0a)</a></sub>
+  <sub>🏆 <b>CNCF Meshery & Layer5 Cloud Contributor</b> • <a href="https://cloud.layer5.io/user/fc0a9c0a-fd2d-49ba-ab30-76591a6f8ea0?tab=badges&badge=first-design">Design Pioneer Verified Badge</a> • <a href="https://github.com/meshery/meshery/pull/24480">PR #24480 Merged</a> • <a href="https://cloud.layer5.io/user/fc0a9c0a-fd2d-49ba-ab30-76591a6f8ea0">Layer5 Profile (fc0a9c0a)</a></sub>
 </p>
 
 <table width="100%">
