@@ -219,3 +219,5 @@ My research focuses on **computational robustness, reliability, and uncertainty-
 - **esg-ml-risk** — cleaned up the ML research pipeline prototype: fixed PyTorch/BLAS segfault, made runs deterministic (`n_jobs=1`, seeded), corrected README/deck claims (simulated panels, proxy text channels, honest numbers).
 - **PR:** [givemehat/esg-ml-risk#4](https://github.com/givemehat/esg-ml-risk/pull/4) — _"Prototype scope: remove vague claims, dedupe docs, fix pipeline bugs"_ — **merged into `main`** ✅
 - Full audit trail: [github.com/givemehat/esg-ml-risk](https://github.com/givemehat/esg-ml-risk)
+
+[![committers.top badge](https://user-badge.committers.top/india/givemehat.svg)](https://committers.top/india/givemehat)
